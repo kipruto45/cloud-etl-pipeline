@@ -1,5 +1,6 @@
-## Project Status
-Initial development of cloud-ready ETL pipeline.
+### Collaboration
+This project includes collaborative commits to demonstrate teamwork.
+
 
 
 > **Extract-Transform-Load system** for processing large-scale datasets with robust error handling, comprehensive logging, and database integration.
