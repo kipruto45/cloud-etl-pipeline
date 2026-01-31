@@ -1,4 +1,6 @@
-# Cloud ETL Pipeline
+## Project Status
+Initial development of cloud-ready ETL pipeline.
+
 
 > **Extract-Transform-Load system** for processing large-scale datasets with robust error handling, comprehensive logging, and database integration.
 
